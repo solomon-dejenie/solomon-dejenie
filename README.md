@@ -100,3 +100,9 @@ I combine **teaching + data analytics** to explain complex insights in a simple,
 ---
 
 ⭐ *If you like my work, consider connecting or collaborating!*
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/solomon-dejenie/solomon-dejenie/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/solomon-dejenie/solomon-dejenie/blob/output/github-contribution-grid-snake-dark.svg)
