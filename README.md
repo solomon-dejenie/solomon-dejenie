@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/solomon-quant/">
-    <img src="https://img.shields.io/badge/LinkedIn-solomon--quant-0077B5?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/solomon-dejenie">
+    <img src="https://img.shields.io/badge/LinkedIn-solomon--dejenie-0077B5?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:soldm7@yahoo.com">
     <img src="https://img.shields.io/badge/Email-soldm7%40yahoo.com-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -85,12 +85,12 @@ Education     │ CS Instruction (8+ yrs) · Curriculum Design · Technical Ment
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=solomon-dejenie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomon-dejeniee&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=solomon-dejenie&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
