@@ -24,6 +24,7 @@
   <a href="https://github.com/solomon-dejenie">
     <img src="https://img.shields.io/badge/GitHub-solomon--dejenie-181717?style=flat&logo=github" />
   </a>
+  <a href="https://github.com/solomon-dejenie/quantitative-finance-portfolio/edit/main/OPEN_TO_WORK.md"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20Work-brightgreen?style=flat" />
 </p>
 
