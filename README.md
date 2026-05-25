@@ -111,7 +111,7 @@ I am open to **freelance, contract, and full-time remote roles** in:
 | Channel | Details |
 |---|---|
 |  Email | [soldm7@yahoo.com](mailto:soldm7@yahoo.com) |
-|  LinkedIn | [linkedin.com/in/solomon-quant](https://www.linkedin.com/in/solomon-quant/) |
+|  LinkedIn | [linkedin.com/in/solomon-dejenie](https://www.linkedin.com/in/solomon-quant/) |
 |  GitHub | [github.com/solomon-dejenie](https://github.com/solomon-dejenie) |
 
 ---
