@@ -21,7 +21,7 @@
   <a href="mailto:soldm7@yahoo.com">
     <img src="https://img.shields.io/badge/Email-soldm7%40yahoo.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/solomon-dejenie">
+  <a href="https://github.com/solomon-dejenie/quantitative-finance-portfolio/tree/main/">
     <img src="https://img.shields.io/badge/GitHub-solomon--dejenie-181717?style=flat&logo=github" />
   </a>
   <a href="https://github.com/solomon-dejenie/quantitative-finance-portfolio/edit/main/OPEN_TO_WORK.md"/>
