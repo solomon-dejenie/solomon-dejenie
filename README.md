@@ -41,7 +41,7 @@ I am actively seeking my **first remote/online opportunity** in data analysis, q
 
 ##  Featured Projects
 
-###  [Efficient Frontier & Portfolio Optimization](https://github.com/solomon-dejenie)
+###  [Efficient Frontier & Portfolio Optimization](https://github.com/solomon-dejenie/quantitative-finance-portfolio/tree/main/01_efficient_frontier)
 
 Constructs the efficient frontier for multi-asset portfolios using Modern Portfolio Theory (MPT). Identifies the optimal risk-return tradeoff, calculates Sharpe ratios, and visualizes the capital market line — enabling data-driven investment decisions.
 
@@ -51,7 +51,7 @@ Tools: Python · NumPy · SciPy · Matplotlib · MPT
 
 ---
 
-###  [Financial Asset Return Analysis](https://github.com/solomon-dejenie)
+###  [Financial Asset Return Analysis](https://github.com/solomon-dejenie/quantitative-finance-portfolio/tree/main/02_asset_return_analysis)
 
 Analyzes historical return distributions across financial assets — computing volatility, skewness, kurtosis, and correlation matrices. Includes statistical tests for normality and risk-adjusted performance metrics.
 
@@ -61,7 +61,7 @@ Tools: Python · Pandas · Statsmodels · Seaborn · Statistics
 
 ---
 
-###  [Financial Econometrics: Time Series Analysis & Regression](https://github.com/solomon-dejenie)
+###  [Financial Econometrics: Time Series Analysis & Regression](https://github.com/solomon-dejenie/quantitative-finance-portfolio/tree/main/03_financial_econometrics)
 
 Applies ARIMA, GARCH, and VAR models for economic forecasting. Covers cointegration testing, stationarity (ADF/KPSS), and OLS regression diagnostics — from academic foundations to real financial data.
 
